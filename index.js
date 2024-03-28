@@ -1,6 +1,6 @@
 // Hi Skidders!
 // Welcome to Editable RPC!!!
-// Written with 🧠 by GhoSty | Publiced By Tejvz
+// Written with ðŸ§  by GhoSty | Publiced By Tejvz
 // Feel free to edit this RPC! But Give Credits
 const Discord = require('discord.js-selfbot-v13');
 const fs = require('fs');
@@ -14,22 +14,22 @@ keepAlive();
 // Editable RPC concept by GhoSty || Brutality
 let r;
 let startTimestamp = Date.now();
-let buttonName = 'Tejvz ';
+let buttonName = 'Tejvz ⛦';
 let buttonUrl = 'https://github.com/tejvz';
 let rpcURL = 'https://www.youtube.com/@TejCodeZ';
 let rpcType = 'COMPETING'; // COMPETING, WATCHING, PLAYING, STREAMING
-let rpcName = 'SHADOW  ';
-let rpcDetails = '!   SHADOW  ';
+let rpcName = 'SHADOW  ☄';
+let rpcDetails = '!   SHADOW  ⛧';
 let assetsSmallText = '24/7';
 let assetsLargeText = 'Tejvz';
 let assetsLargeImage = 'https://media.discordapp.net/attachments/1221755784627748907/1222781935579955261/lv_0_20240328110701.gif?ex=6617776b&is=6605026b&hm=d7fe691074a5b0b7f1417bccafed004f71f437ed2ae1fe76c4b63b8821f5ae8c&';
-let assetsSmallImage = '';
+let assetsSmallImage = 'https://media.discordapp.net/attachments/1221755784627748907/1222784028566884382/Picsart_24-03-26_20-46-13-282.jpg?ex=6617795e&is=6605045e&hm=39ade7826419e7beb5128b10dc861f43bcb6862397df37e86640cbab275a6bee&';
 // Editable RPC concept by GhoSty || Brutality
 client.on('ready', async () => {
   console.clear();
   console.log(`${client.user.tag} - rich presence started!`);
   // Editable RPC concept by GhoSty || Brutality
-  const timestamps = fs.readFileSync('tejcodez.txt', 'utf8').split('\n');
+  const timestamps = fs.readFileSync('ghosty.txt', 'utf8').split('\n');
   const randomTimestamp = timestamps[Math.floor(Math.random() * timestamps.length)];
   const [hours, minutes, seconds] = randomTimestamp.split(':');
   startTimestamp = Date.now() - (hours * 3600000 + minutes * 60000 + seconds * 1000);
