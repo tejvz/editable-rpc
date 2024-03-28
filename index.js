@@ -29,7 +29,7 @@ client.on('ready', async () => {
   console.clear();
   console.log(`${client.user.tag} - rich presence started!`);
   // Editable RPC concept by GhoSty || Brutality
-  const timestamps = fs.readFileSync('ghosty.txt', 'utf8').split('\n');
+  const timestamps = fs.readFileSync('tejvz.txt', 'utf8').split('\n');
   const randomTimestamp = timestamps[Math.floor(Math.random() * timestamps.length)];
   const [hours, minutes, seconds] = randomTimestamp.split(':');
   startTimestamp = Date.now() - (hours * 3600000 + minutes * 60000 + seconds * 1000);
