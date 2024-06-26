@@ -22,8 +22,8 @@ let rpcName = 'SHADOW  ☄';
 let rpcDetails = '!   SHADOW  ⛧';
 let assetsSmallText = '24/7';
 let assetsLargeText = 'Tejvz';
-let assetsLargeImage = 'https://media.discordapp.net/attachments/1221755784627748907/1222781935579955261/lv_0_20240328110701.gif?ex=6617776b&is=6605026b&hm=d7fe691074a5b0b7f1417bccafed004f71f437ed2ae1fe76c4b63b8821f5ae8c&';
-let assetsSmallImage = 'https://media.discordapp.net/attachments/1221755784627748907/1222784028566884382/Picsart_24-03-26_20-46-13-282.jpg?ex=6617795e&is=6605045e&hm=39ade7826419e7beb5128b10dc861f43bcb6862397df37e86640cbab275a6bee&';
+let assetsLargeImage = 'https://media.discordapp.net/attachments/1247076221229994076/1255493058330628217/anime.gif?ex=667d5487&is=667c0307&hm=355348eae71b873c4275ccdbc6a5445dd0cd7a130363fcf39ee1fbfecc229f81&';
+let assetsSmallImage = 'https://media.discordapp.net/attachments/1247076221229994076/1255493057839759400/kyousuke-hyoubu-the-unlimited-hyoubu-kyousuke.gif?ex=667d5486&is=667c0306&hm=4efe887fa73d92325563369a9469c21ae1d2a7e88161a1e44ce6d1bec26bda54&';
 // Editable RPC concept by GhoSty || Brutality
 client.on('ready', async () => {
   console.clear();
