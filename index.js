@@ -16,14 +16,14 @@ let r;
 let startTimestamp = Date.now();
 let buttonName = 'Tejvz ⛦';
 let buttonUrl = 'https://github.com/tejvz';
-let rpcURL = 'https://www.youtube.com/@TejCodeZ';
-let rpcType = 'COMPETING'; // COMPETING, WATCHING, PLAYING, STREAMING
-let rpcName = 'SHADOW  ☄';
-let rpcDetails = '!   SHADOW  ⛧';
-let assetsSmallText = '24/7';
-let assetsLargeText = 'Tejvz';
-let assetsLargeImage = 'https://media.discordapp.net/attachments/1247076221229994076/1255493058330628217/anime.gif?ex=667d5487&is=667c0307&hm=355348eae71b873c4275ccdbc6a5445dd0cd7a130363fcf39ee1fbfecc229f81&';
-let assetsSmallImage = 'https://media.discordapp.net/attachments/1247076221229994076/1255493057839759400/kyousuke-hyoubu-the-unlimited-hyoubu-kyousuke.gif?ex=667d5486&is=667c0306&hm=4efe887fa73d92325563369a9469c21ae1d2a7e88161a1e44ce6d1bec26bda54&';
+let rpcURL = 'https://dsc.gg/tejvz';
+let rpcType = 'PLAYING'; // COMPETING, WATCHING, PLAYING, STREAMING
+let rpcName = 'Tej  ☄';
+let rpcDetails = '! Tejv ⛧';
+let assetsSmallText = 'dsc.gg/tejvz';
+let assetsLargeText = 'On Top';
+let assetsLargeImage = 'https://cdn.discordapp.com/attachments/916987835230334996/1389191480643424367/standard.gif?ex=6863b8e2&is=68626762&hm=e31079808f0008d5e8ba8cec681675aad48cf7785f120757cd7956660bce36c4&';
+let assetsSmallImage = 'https://media.discordapp.net/attachments/916987835230334996/1189819267546365972/17037453741388502409509294827371.gif?ex=6863820b&is=6862308b&hm=8d434ca39459de31c0225de588003b1aa1d8d45253663545cf6c738e6db2580f&';
 // Editable RPC concept by GhoSty || Brutality
 client.on('ready', async () => {
   console.clear();
