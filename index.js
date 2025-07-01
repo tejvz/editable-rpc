@@ -23,7 +23,7 @@ let rpcDetails = '! Tejv ⛧';
 let assetsSmallText = 'dsc.gg/tejvz';
 let assetsLargeText = 'On Top';
 let assetsLargeImage = 'https://cdn.discordapp.com/attachments/916987835230334996/1389191480643424367/standard.gif?ex=6863b8e2&is=68626762&hm=e31079808f0008d5e8ba8cec681675aad48cf7785f120757cd7956660bce36c4&';
-let assetsSmallImage = 'https://media.discordapp.net/attachments/916987835230334996/1189819267546365972/17037453741388502409509294827371.gif?ex=6863820b&is=6862308b&hm=8d434ca39459de31c0225de588003b1aa1d8d45253663545cf6c738e6db2580f&';
+let assetsSmallImage = 'https://cdn.discordapp.com/attachments/916987835230334996/1389445727591206942/bl-cp.gif?ex=6864a5ac&is=6863542c&hm=1ecf4f1e82ac195ca6c59887f632a6075f2cf04719bb348414c3b0de03f73007&';
 // Editable RPC concept by GhoSty || Brutality
 client.on('ready', async () => {
   console.clear();
