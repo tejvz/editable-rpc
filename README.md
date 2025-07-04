@@ -22,7 +22,7 @@ let assetsSmallImage = 'URL OF SMALL RPC IMAGE';
 
 # Add Your Token In Secrets:
 ## Key = TOKEN
-## Value = YOUR_ACCOUNT_TOKEN
+## Value = YOUR_ACC_TOKEN
 
 
 # *TABLE OF COMMANDS SO THAT YOU CAN CHANGE ANY OF THE RPC ASSETS DIRECTLY FROM DISCORD WITHOUT OPENING REPLIT AGAIN AND AGAIN*
@@ -77,8 +77,9 @@ let assetsSmallImage = 'URL OF SMALL RPC IMAGE';
 *Instagram - https://www.instagram.com/_just__a_human/*
 *Support Server - https://discord.gg/timepass or https://discord.gg/v2NTPSTvct*
 # SUPPORT
-*Discord - @ghostyjija*
-*Discord - @tejv*
+*Discord* - **@ghostyjija**
+
+*Discord* - **@tejv**
 
 **Dm Me On Any Platform If You Want Any Help, I'll Surely Respond.**
 
