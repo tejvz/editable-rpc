@@ -2,7 +2,7 @@ const express = require('express');
 const server = express();
  
 server.all('/', (req, res) => {
-  res.send(`RPC HAS SET !`)
+  res.send(`Program is running successfully !`)
 })
  
 function keepAlive() {
