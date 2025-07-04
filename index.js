@@ -22,8 +22,8 @@ let rpcName = 'Tej  ☄';
 let rpcDetails = 'dsc.gg/tejvz';
 let assetsSmallText = 'dsc.gg/tejvz';
 let assetsLargeText = 'On Top';
-let assetsLargeImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1390654750197813340/17037453741388502409509294827371.gif?ex=68690ba9&is=6867ba29&hm=7d6758b00eebbd3aa0444274a5e1f151420f8b0703a699719d641af26d5b3dd4&';
-let assetsSmallImage = 'https://cdn.discordapp.com/attachments/916987835230334996/1389445727591206942/bl-cp.gif?ex=6864a5ac&is=6863542c&hm=1ecf4f1e82ac195ca6c59887f632a6075f2cf04719bb348414c3b0de03f73007&';
+let assetsLargeImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1390656805549637642/ipoplite238.gif?ex=68690d93&is=6867bc13&hm=54cec4cbf4e2abab54523712501d0bf41a4aecb13567cd5861d549d3c9e6443a&';
+let assetsSmallImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1390656444126462073/bl-cp.gif?ex=68690d3d&is=6867bbbd&hm=3ea577fd80bb2b60da5e24d108458ff218f994a7ec9a4a00434c37d7ebb1ebc0&';
 // Editable RPC concept by GhoSty || Brutality
 client.on('ready', async () => {
   console.clear();
