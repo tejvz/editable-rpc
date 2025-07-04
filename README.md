@@ -75,9 +75,10 @@ let assetsSmallImage = 'URL OF SMALL RPC IMAGE';
 *Replit - @WannaBeGhoSt*
 *Replit - @waterhere*
 *Instagram - https://www.instagram.com/_just__a_human/*
-*Discord - @ghostyjija*
-*Discord - tejv*
 *Support Server - https://discord.gg/timepass or https://discord.gg/v2NTPSTvct*
+# SUPPORT
+*Discord - @ghostyjija*
+*Discord - @tejv*
 
 **Dm Me On Any Platform If You Want Any Help, I'll Surely Respond.**
 
@@ -85,4 +86,4 @@ let assetsSmallImage = 'URL OF SMALL RPC IMAGE';
 # Self-Bots Are Strictly Against Discord TOS. Use This On Your Own Risk, It's Made Only For Educational Purposes
 
 Best Regards,
-GhoSty / TejCodez
+GhoSty / Tejv
