@@ -14,15 +14,15 @@ keepAlive();
 // Editable RPC concept by GhoSty || Brutality
 let r;
 let startTimestamp = Date.now();
-let buttonName = 'Tejvz ⛦';
+let buttonName = 'Github ⛦';
 let buttonUrl = 'https://github.com/tejvz';
 let rpcURL = 'https://dsc.gg/tejvz';
-let rpcType = 'PLAYING'; // COMPETING, WATCHING, PLAYING, STREAMING
+let rpcType = 'STREAMING'; // COMPETING, WATCHING, PLAYING, STREAMING
 let rpcName = 'Tej  ☄';
-let rpcDetails = '! Tejv ⛧';
+let rpcDetails = 'dsc.gg/tejvz';
 let assetsSmallText = 'dsc.gg/tejvz';
 let assetsLargeText = 'On Top';
-let assetsLargeImage = 'https://cdn.discordapp.com/attachments/916987835230334996/1389191480643424367/standard.gif?ex=6863b8e2&is=68626762&hm=e31079808f0008d5e8ba8cec681675aad48cf7785f120757cd7956660bce36c4&';
+let assetsLargeImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1390654750197813340/17037453741388502409509294827371.gif?ex=68690ba9&is=6867ba29&hm=7d6758b00eebbd3aa0444274a5e1f151420f8b0703a699719d641af26d5b3dd4&';
 let assetsSmallImage = 'https://cdn.discordapp.com/attachments/916987835230334996/1389445727591206942/bl-cp.gif?ex=6864a5ac&is=6863542c&hm=1ecf4f1e82ac195ca6c59887f632a6075f2cf04719bb348414c3b0de03f73007&';
 // Editable RPC concept by GhoSty || Brutality
 client.on('ready', async () => {
