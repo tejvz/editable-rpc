@@ -1,4 +1,4 @@
-# RPC Setup Guide by GhoSty
+# RPC Setup Guide by GhoSty / Tejv
 # ⚠ Do Not Delete Or Change Anything In Any Files If You Don't Know What It Is For
 
 Greetings, fellow developers! Below are detailed instructions to set up your Discord RPC (Rich Presence) on Replit.
@@ -22,7 +22,7 @@ let assetsSmallImage = 'URL OF SMALL RPC IMAGE';
 
 # Add Your Token In Secrets:
 ## Key = TOKEN
-## Value = YOUR_ACC_TOKEN
+## Value = YOUR_TOKEN
 
 
 # *TABLE OF COMMANDS SO THAT YOU CAN CHANGE ANY OF THE RPC ASSETS DIRECTLY FROM DISCORD WITHOUT OPENING REPLIT AGAIN AND AGAIN*
@@ -88,3 +88,6 @@ let assetsSmallImage = 'URL OF SMALL RPC IMAGE';
 
 Best Regards,
 GhoSty / Tejv
+
+# Wana Make it 24/7?
+*contact **tejv** at discord.*
