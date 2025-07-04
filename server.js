@@ -2,7 +2,7 @@ const express = require('express');
 const server = express();
  
 server.all('/', (req, res) => {
-  res.send(`Running Program By GhoSty / Git By TejCodeZ`)
+  res.send(`RPC HAS SET !`)
 })
  
 function keepAlive() {
