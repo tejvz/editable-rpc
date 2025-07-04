@@ -17,11 +17,11 @@ let startTimestamp = Date.now();
 let buttonName = 'Github ⛦';
 let buttonUrl = 'https://github.com/tejvz';
 let rpcURL = 'https://dsc.gg/tejvz';
-let rpcType = 'STREAMING'; // COMPETING, WATCHING, PLAYING, STREAMING
+let rpcType = 'COMPETING'; // COMPETING, WATCHING, PLAYING, STREAMING
 let rpcName = 'Discord ☄';
 let rpcDetails = 'Tejv ⛦';
-let assetsSmallText = 'dsc.gg/tejvz';
-let assetsLargeText = 'On Top';
+let assetsSmallText = 'on Top!';
+let assetsLargeText = 'dsc.gg/tejvz';
 let assetsLargeImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1390656805549637642/ipoplite238.gif?ex=68690d93&is=6867bc13&hm=54cec4cbf4e2abab54523712501d0bf41a4aecb13567cd5861d549d3c9e6443a&';
 let assetsSmallImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1390656444126462073/bl-cp.gif?ex=68690d3d&is=6867bbbd&hm=3ea577fd80bb2b60da5e24d108458ff218f994a7ec9a4a00434c37d7ebb1ebc0&';
 // Editable RPC concept by GhoSty || Brutality
