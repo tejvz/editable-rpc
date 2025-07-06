@@ -18,18 +18,17 @@ let buttonName = 'Github';
 let buttonUrl = 'https://github.com/tejvz';
 let rpcURL = 'https://dsc.gg/tejvz';
 let rpcType = 'WATCHING'; // COMPETING, WATCHING, PLAYING, STREAMING
-let rpcName = 'Tejvz †';
-let rpcDetails = 'Dsc.gg/tejvz';
-let assetsSmallText = '24/7';
-let assetsLargeText = 'On Top!';
-let assetsLargeImage = 'https://media.discordapp.net/attachments/916987835230334996/1189819267546365972/17037453741388502409509294827371.gif?ex=6863820b&is=6862308b&hm=8d434ca39459de31c0225de588003b1aa1d8d45253663545cf6c738e6db2580f&';
-let assetsSmallImage = 'https://cdn.discordapp.com/attachments/916987835230334996/1389191480643424367/standard.gif?ex=6863b8e2&is=68626762&hm=e31079808f0008d5e8ba8cec681675aad48cf7785f120757cd7956660bce36c4&';
-
+let rpcName = 'Tejv on Top';
+let rpcDetails = 'Tejv ⛦';
+let assetsSmallText = 'dsc.gg/tejvz';
+let assetsLargeText = 'dsc.gg/tejvz on top';
+let assetsLargeImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1390681078985134172/standard.gif?ex=686b1e6e&is=6869ccee&hm=61aaf88d0afa0dbcb886c2ced262f0802f9a28674819dc15989f377dc87699a7&';
+let assetsSmallImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1390656444126462073/bl-cp.gif?ex=686b077d&is=6869b5fd&hm=833c477f69d8bf9e9a53ff1bd7732563d8c164ec8ddb0d90bf051221df75000e&';
 client.on('ready', async () => {
   console.clear();
   console.log(`${client.user.tag} - rich presence started!`);
 
-  const timestamps = fs.readFileSync('ghosty.txt', 'utf8').split('\n');
+  const timestamps = fs.readFileSync('tejvz.txt', 'utf8').split('\n');
   const randomTimestamp = timestamps[Math.floor(Math.random() * timestamps.length)];
   const [hours, minutes, seconds] = randomTimestamp.split(':');
   startTimestamp = Date.now() - (hours * 3600000 + minutes * 60000 + seconds * 1000);
