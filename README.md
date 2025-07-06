@@ -32,6 +32,10 @@ let assetsSmallImage = 'URL OF SMALL RPC IMAGE';
 
 
 # *Commands:*
+
+**>rpch: tells all commands**
+**Usage: its a help command**
+
 **>limg: Changes the Large RPC image**
 **Usage: >limg IMAGE_URL**
 
