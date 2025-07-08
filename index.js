@@ -18,8 +18,8 @@ let buttonName = 'Github';
 let buttonUrl = 'https://github.com/tejvz';
 let rpcURL = 'https://dsc.gg/tejvz';
 let rpcType = 'PLAYING'; // COMPETING, WATCHING, PLAYING, STREAMING
-let rpcName = 'Tejv on Top';
-let rpcDetails = 'Tejv ⛦';
+let rpcName = 'Tejv ⛦';
+let rpcDetails = 'dsc.gg/tejvz';
 let assetsSmallText = 'dsc.gg/tejvz';
 let assetsLargeText = 'dsc.gg/tejvz on top';
 let assetsLargeImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1391728959028334693/polar.gif?ex=686cf418&is=686ba298&hm=02598644cd486a2d6bcaf349aab627e63ed86adfc4e2f0da63ac62bb0a862f5b&';
