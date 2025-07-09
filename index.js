@@ -16,12 +16,12 @@ let r;
 let startTimestamp = Date.now();
 let buttonName = 'Github';
 let buttonUrl = 'https://github.com/tejvz';
-let rpcURL = 'https://dsc.gg/tejvz';
+let rpcURL = 'https://dsc.gg/tejv';
 let rpcType = 'PLAYING'; // COMPETING, WATCHING, PLAYING, STREAMING
 let rpcName = 'Tejv ⛦';
-let rpcDetails = 'dsc.gg/tejvz';
-let assetsSmallText = 'dsc.gg/tejvz';
-let assetsLargeText = 'dsc.gg/tejvz on top';
+let rpcDetails = 'dsc.gg/tejv';
+let assetsSmallText = 'dsc.gg/tejv';
+let assetsLargeText = 'dsc.gg/tejv on top';
 let assetsLargeImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1391728959028334693/polar.gif?ex=686cf418&is=686ba298&hm=02598644cd486a2d6bcaf349aab627e63ed86adfc4e2f0da63ac62bb0a862f5b&';
 let assetsSmallImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1391729133561577583/standard.gif?ex=686cf442&is=686ba2c2&hm=27738c14b68fb2426c68a486988b962a9df5258b21ae16324bf4be6bcb6ad270&';
 client.on('ready', async () => {
