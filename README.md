@@ -5,7 +5,7 @@ Greetings, fellow developers! Below are detailed instructions to set up your Dis
 
 
 ## FOLLOW THESE STEPS:
-### DON'T CHANGE THESE HERE MAKE CHANGES IN index.js
+### CHANGE THESE IN index.js
 ```js
 let buttonName = 'YOUR BUTTON NAME HERE';
 let buttonUrl = 'BUTTON URL';
