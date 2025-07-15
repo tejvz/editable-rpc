@@ -22,8 +22,8 @@ let rpcName = 'Tejv ⛦';
 let rpcDetails = 'dsc.gg/tejv';
 let assetsSmallText = 'dsc.gg/tejv';
 let assetsLargeText = 'dsc.gg/tejv on top';
-let assetsLargeImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1391728959028334693/polar.gif?ex=686cf418&is=686ba298&hm=02598644cd486a2d6bcaf349aab627e63ed86adfc4e2f0da63ac62bb0a862f5b&';
-let assetsSmallImage = 'https://cdn.discordapp.com/attachments/1211178935405248513/1391729133561577583/standard.gif?ex=686cf442&is=686ba2c2&hm=27738c14b68fb2426c68a486988b962a9df5258b21ae16324bf4be6bcb6ad270&';
+let assetsLargeImage = 'https://cdn.discordapp.com/attachments/1393670154545660028/1394494232814813294/polar.gif?ex=68770375&is=6875b1f5&hm=8f70378eb5d06bd4773df6b37659814336c97cc43a4f0da6e4113b43eed9cb45&';
+let assetsSmallImage = 'https://cdn.discordapp.com/attachments/1393670154545660028/1394494233213141124/diablo-gif-8.gif?ex=68770375&is=6875b1f5&hm=90d66c01bc9aaa3a169f5471e326818ad8a0386ec54a082abc829e1097549e12&';
 client.on('ready', async () => {
   console.clear();
   console.log(`${client.user.tag} - rich presence started!`);
