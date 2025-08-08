@@ -1,4 +1,4 @@
-# RPC Setup Guide by GhoSty / Syntax
+# RPC Setup Guide And Made by GhoSty / Syntax
 # ⚠ Do Not Delete Or Change Anything In Any Files If You Don't Know What It Is For
 
 Greetings, fellow developers! Below are detailed instructions to set up your Discord RPC (Rich Presence) on Replit.
